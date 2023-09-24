@@ -29,4 +29,4 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/tuproyecto.git
+   git clone https://github.com/guimareyb/HotelAluraChallenge.git
